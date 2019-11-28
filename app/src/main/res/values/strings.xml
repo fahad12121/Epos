@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Epos</string>
+    <string name="text">Home</string>
+    <string name="Ord">Orders</string>
+    <string name="lounge">Lounge Special</string>
+    <string name="chicken">Chicken Pizza</string>
+    <string name="beef">Beef Pizza</string>
+    <string name="veggie">Veggie Pizza</string>
+    <string name="bugers">Burgers</string>
+    <string name="sand">Sandwiches</string>
+    <string name="sides">Sides</string>
+    <string name="dessert">Desserts</string>
+    <string name="drink">Drinks</string>
+    <string name="meal">Meals</string>
+    <string name="smokey">Smokey Chicken</string>
+    <string name="tikka">Tikka Go Round Supreme</string>
+    <string name="cheese">Cheese Pizza Special</string>
+    <string name="thin">Thin Crust Pizza</string>
+    <string name="small">Small Pizza Rs 250</string>
+    <string name="medium">Medium Pizza Rs 550</string>
+    <string name="large">Large Pizza Rs 800</string>
+    <string name="Extra_large">Extra Large Pizza Rs 1200</string>
+</resources>
